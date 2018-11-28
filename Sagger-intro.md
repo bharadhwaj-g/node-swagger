@@ -28,7 +28,7 @@ As a developer we may write the best web API service but **without proper docume
 ## How to use it ?
 ### 1. Install the swagger module
 
-Install using npm. For complete instructions, see the [install](./docs/install.md) page.
+Install using npm. For complete instructions, see the [install](https://raw.githubusercontent.com/swagger-api/swagger-node/master/docs/install.md) page.
 
 ```bash
 $ npm install -g swagger
@@ -36,7 +36,7 @@ $ npm install -g swagger
 
 ### 2. Create a new swagger project
 
-Use the [CLI](./docs/cli.md) to create and manage projects. Learn more on the [quick start](./docs/quick-start.md) page.
+Use the [CLI](./docs/cli.md) to create and manage projects. Learn more on the [quick start](https://raw.githubusercontent.com/swagger-api/swagger-node/master/docs/quick-start.md) page.
 
 ```bash
 $ swagger project create hello-world
